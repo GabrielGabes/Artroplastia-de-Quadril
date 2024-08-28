@@ -1,28 +1,28 @@
-## Análise Estatística em Artroplastia de Quadril
+## Statistical Analysis in Hip Arthroplasty
 
-Este repositório contém as análises estatísticas realizadas para um estudo retrospectivo que avaliou a influência da baricidade da bupivacaína utilizada na raquianestesia nos desfechos perioperatórios de pacientes submetidos a artroplastia de quadril. O estudo foi conduzido em hospitais da Rede D'Or e está atualmente em revisão para publicação em uma revista científica.
+This repository contains the statistical analyses conducted for a retrospective study that evaluated the influence of the baricity of bupivacaine used in spinal anesthesia on perioperative outcomes of patients undergoing hip arthroplasty. The study was conducted at Rede D'Or hospitals and is currently under review for publication in a scientific journal.
 
-### Rendimentos dos Projetos
-- **Pesquisa Científica:** *ANÁLISE DA TÉCNICA ANESTÉSICA PARA ARTROPLASTIAS DE QUADRIL E DESFECHOS PÓS-OPERATÓRIOS* - Atualmente em revisão na revista de medicina.
-- **TCC da Residência Médica Anestesiológica:** *Relação entre a baricidade do anestésico local utilizado na raquianestesia e os desfechos de pacientes submetidos a artroplastia de quadril: uma coorte retrospectiva* - Finalizado em dezembro de 2022.
-- **Premiação:** 2º lugar no II Simpósio Internacional de Qualidade e Segurança da Rede D'Or com o trabalho *Análise preditiva por algoritmos de machine learning em cirurgia ortopédica de grande porte: custo-efetividade e impacto no desfecho pós-operatório* - Apresentado em abril de 2023.
+### Project Outcomes
+- **Scientific Research:** *ANALYSIS OF ANESTHETIC TECHNIQUE FOR HIP ARTHROPLASTY AND POSTOPERATIVE OUTCOMES* - Currently under review in a medical journal.
+- **Anesthesiology Residency Thesis:** *Relationship between the baricity of the local anesthetic used in spinal anesthesia and outcomes of patients undergoing hip arthroplasty: a retrospective cohort* - Completed in December 2022.
+- **Award:** 2nd place at the II International Symposium on Quality and Safety of Rede D'Or with the work *Predictive analysis by machine learning algorithms in major orthopedic surgery: cost-effectiveness and impact on postoperative outcome* - Presented in April 2023.
 
-### Objetivo do Projeto
-Avaliar se a baricidade do anestésico local (bupivacaína isobárica vs. hiperbárica) influencia desfechos críticos, como hipotensão intraoperatória, uso de drogas vasoativas, necessidade de transfusão sanguínea, e tempo de internação.
+### Project Objective
+To evaluate whether the baricity of the local anesthetic (isobaric vs. hyperbaric bupivacaine) influences critical outcomes such as intraoperative hypotension, use of vasoactive drugs, need for blood transfusion, and length of hospital stay.
 
-### Metodologia
-- **Tipo de Estudo:** Coorte retrospectiva.
-- **Período:** Janeiro de 2016 a Dezembro de 2021.
-- **Local:** Hospitais da Rede D'Or (São Luiz Itaim, Anália Franco, Villa Lobos).
-- **População:** Pacientes submetidos a artroplastia de quadril durante o período do estudo, com dados coletados via prontuários eletrônicos (TASY®).
+### Methodology
+- **Study Type:** Retrospective cohort.
+- **Period:** January 2016 to December 2021.
+- **Location:** Rede D'Or Hospitals (São Luiz Itaim, Anália Franco, Villa Lobos).
+- **Population:** Patients undergoing hip arthroplasty during the study period, with data collected via electronic medical records.
 
-### Análise Estatística
-Foi empregada análise multivariada para ajustar fatores de confusão e calcular razões de prevalência (RP) para os desfechos. As análises foram realizadas utilizando o software Stata®, e incluíram testes de normalidade, regressão de Poisson com variância robusta, e seleção de variáveis por meio de stepwise.
+### Statistical Analysis
+Multivariate analysis was used to adjust confounding factors and calculate prevalence ratios (PR) for outcomes. Analyses were performed using R program® software, and included tests of normality, Poisson regression with robust variance to estimate relative risk effect sizes, and variable selection through stepwise.
 
-### Principais Resultados
-- **Hipotensão Intraoperatória:** A bupivacaína isobárica esteve associada a uma maior incidência de hipotensão em comparação à bupivacaína hiperbárica.
-- **Uso de Drogas Vasoativas:** Houve uma maior necessidade de vasopressores entre os pacientes que receberam bupivacaína isobárica.
-- **Tempo de Internação:** Pacientes que receberam bupivacaína hiperbárica tiveram um tempo de internação menor.
+### Key Results
+- **Intraoperative Hypotension:** Isobaric bupivacaine was associated with a higher incidence of hypotension compared to hyperbaric bupivacaine.
+- **Use of Vasoactive Drugs:** There was a higher need for vasopressors among patients who received isobaric bupivacaine.
+- **Length of Hospital Stay:** Patients who received hyperbaric bupivacaine had a shorter hospital stay.
 
-### Contribuições Pessoais
-Como estatístico, fui responsável por todo o processo de análise dos dados, desde a seleção das variáveis, ajuste de modelos estatísticos, até a interpretação dos resultados. Identificar a relação entre a baricidade do anestésico e os desfechos clínicos, auxiliando na formulação de recomendações para práticas anestésicas mais seguras e eficazes.
+### Personal Contributions
+As a statistician, I was responsible for the entire data analysis process, from variable selection, model fitting, to interpretation of results. Identifying the relationship between the baricity of the anesthetic and clinical outcomes, aiding in the formulation of recommendations for safer and more effective anesthetic practices.
