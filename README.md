@@ -26,3 +26,9 @@ Multivariate analysis was used to adjust confounding factors and calculate preva
 
 ### Personal Contributions
 As a statistician, I was responsible for the entire data analysis process, from variable selection, model fitting, to interpretation of results. Identifying the relationship between the baricity of the anesthetic and clinical outcomes, aiding in the formulation of recommendations for safer and more effective anesthetic practices.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Contact
+For more information, please contact [gabriel_s_anjos@yahoo.com][(https://www.linkedin.com/feed/)].
